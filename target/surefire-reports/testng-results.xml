@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Guru99Project" duration-ms="21136" started-at="2020-08-17T17:09:54 EDT" finished-at="2020-08-17T17:10:15 EDT">
+    <groups>
+    </groups>
+    <test name="Banking Project" duration-ms="21136" started-at="2020-08-17T17:09:54 EDT" finished-at="2020-08-17T17:10:15 EDT">
+      <class name="com.guru99project.testCases.TC_LoginTest_001">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99project.testCases.TC_LoginTest_001@617faa95]" name="setUp" is-config="true" duration-ms="6138" started-at="2020-08-17T17:09:54 EDT" finished-at="2020-08-17T17:10:00 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.guru99project.testCases.TC_LoginTest_001@617faa95]" name="loginTest" duration-ms="792" started-at="2020-08-17T17:10:00 EDT" finished-at="2020-08-17T17:10:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99project.testCases.TC_LoginTest_001@617faa95]" name="tearDown" is-config="true" duration-ms="607" started-at="2020-08-17T17:10:01 EDT" finished-at="2020-08-17T17:10:01 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99project.testCases.TC_LoginTest_001 -->
+      <class name="com.guru99project.testCases.TC_AddCustomerTest_003">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.guru99project.testCases.TC_AddCustomerTest_003@1e127982]" name="setUp" is-config="true" duration-ms="4270" started-at="2020-08-17T17:10:01 EDT" finished-at="2020-08-17T17:10:06 EDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="addNewCustomer()[pri:0, instance:com.guru99project.testCases.TC_AddCustomerTest_003@1e127982]" name="addNewCustomer" duration-ms="8554" started-at="2020-08-17T17:10:06 EDT" finished-at="2020-08-17T17:10:14 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.guru99project.testCases.TC_AddCustomerTest_003@1e127982]" name="tearDown" is-config="true" duration-ms="613" started-at="2020-08-17T17:10:14 EDT" finished-at="2020-08-17T17:10:15 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99project.testCases.TC_AddCustomerTest_003 -->
+    </test> <!-- Banking Project -->
+  </suite> <!-- Guru99Project -->
+</testng-results>

@@ -1,0 +1,10 @@
+com\guru99project\utilities\ReadConfig.class
+com\guru99project\testCases\BaseClass.class
+com\guru99project\testCases\TC_LoginTest_001.class
+com\guru99project\testCases\TC_AddCustomerTest_003.class
+com\guru99project\pageObjects\AddCustomerPage.class
+com\guru99project\pageObjects\Sample.class
+com\guru99project\utilities\Reporting.class
+com\guru99project\pageObjects\LoginPage.class
+com\guru99project\testCases\TC_LoginDDT_002.class
+com\guru99project\utilities\XLUtils.class
